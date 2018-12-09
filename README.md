@@ -18,6 +18,7 @@ apt install privoxy
 privoxy --version
 ```
 4. Download the same version of Privoxy from the Privoxy homepage :  http://www.privoxy.org/sf-download-mirror/
+
 Extract all those files to your /sdacrd/ directory (or your home directory).
 
 5.Open Privoxy config file ( /sdcard/etc/privoxy/config) and add this new line to redirect all TCP requests to Tor (Tor listens for incoming request on localhost SOCKS5 proxy at Port 9050 ):
