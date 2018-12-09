@@ -5,7 +5,7 @@ Python scripts to test Tor IP  rotation
 1. Install Tor. You can install Tor by using this command:
 ```code
 apt install tor
-```You can test Tor installation by using `tor` command.
+``` You can test Tor installation by using `tor` command.
 
 2. Install Privoxy. You can install Privoxy by using this command:
 ```code
